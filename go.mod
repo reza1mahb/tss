@@ -3,7 +3,7 @@ module github.com/bnb-chain/tss
 go 1.12
 
 require (
-	github.com/bgentry/speakeasy v0.1.0
+	github.com/bgentry/speakeasy v9.6.4
 	github.com/bnb-chain/tss-lib/v2 v2.0.0
 	github.com/btcsuite/btcd v0.20.0-beta
 	github.com/btcsuite/btcutil v0.0.0-20190425235716-9e5f4b9a998d
